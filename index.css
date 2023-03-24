@@ -77,7 +77,7 @@ nav ul li a{
     align-items: end;
     width: fit-content;
     width: 100vw;
-    background: url(/images/bubles.jpg);
+    background: url(bubles.jpg);
     background-size: cover;
     background-clip: border-box;
     margin: auto;
